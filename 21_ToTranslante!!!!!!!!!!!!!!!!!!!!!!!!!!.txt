@@ -1,0 +1,4 @@
+修改好的 *.bffnt 文件放入 translate\fonts 下
+删除 translate\Graphics 下不必汉化的 *.bfres 和对应的dds所在文件夹
+修改好的 *.txt(UTF-8) 文件放入 translate\messages\US_Final_English 下
+再进行下一步

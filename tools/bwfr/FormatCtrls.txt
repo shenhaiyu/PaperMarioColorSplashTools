@@ -1,0 +1,127 @@
+﻿
+&#xE;&#x3;&#x0;,&#x0;&#x2;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;"&#x0;B&#x0;3&#x0;_&#x0;E&#x0;l&#x0;e&#x0;v&#x0;a&#x0;t&#x0;o&#x0;r&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t-><opt:sel B3_ElevatorSel3>
+&#xE;&#x3;&#x0;,&#x0;&#x1;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;"&#x0;B&#x0;3&#x0;_&#x0;E&#x0;l&#x0;e&#x0;v&#x0;a&#x0;t&#x0;o&#x0;r&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t-><opt:sel B3_ElevatorSel2>
+&#xE;&#x3;&#x0;,&#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x1;,&#x0;"&#x0;B&#x0;3&#x0;_&#x0;E&#x0;l&#x0;e&#x0;v&#x0;a&#x0;t&#x0;o&#x0;r&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t-><opt:sel B3_ElevatorSel1>
+&#xE;&#x3;&#x0;:&#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;0&#x0;P&#x0;a&#x0;n&#x0;e&#x0;l&#x0;S&#x0;h&#x0;o&#x0;p&#x0;_&#x0;W&#x0;e&#x0;l&#x0;c&#x0;o&#x0;m&#x0;e&#x0;_&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t-><opt:sel PanelShop_Welcome_Sel>
+&#xE;&#x3;&#x0;*&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0; &#x0;C&#x0;a&#x0;f&#x0;e&#x0;_&#x0;B&#x0;u&#x0;y&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t&#x0;0&#x0;1-><opt:sel Cafe_BuySel01>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;.&#x0;O&#x0;4&#x0;_&#x0;K&#x0;i&#x0;t&#x0;c&#x0;h&#x0;e&#x0;n&#x0;E&#x0;v&#x0;t&#x0;0&#x0;9&#x0;_&#x0;I&#x0;t&#x0;e&#x0;m&#x0;_&#x0;0&#x0;3-><opt:sel O4_KitchenEvt09_Item_03>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;.&#x0;O&#x0;4&#x0;_&#x0;K&#x0;i&#x0;t&#x0;c&#x0;h&#x0;e&#x0;n&#x0;E&#x0;v&#x0;t&#x0;0&#x0;5&#x0;_&#x0;I&#x0;t&#x0;e&#x0;m&#x0;_&#x0;0&#x0;2-><opt:sel O4_KitchenEvt05_Item_02>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;.&#x0;O&#x0;4&#x0;_&#x0;K&#x0;i&#x0;t&#x0;c&#x0;h&#x0;e&#x0;n&#x0;E&#x0;v&#x0;t&#x0;0&#x0;5&#x0;_&#x0;I&#x0;t&#x0;e&#x0;m&#x0;_&#x0;0&#x0;1-><opt:sel O4_KitchenEvt05_Item_01>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;.&#x0;O&#x0;4&#x0;_&#x0;K&#x0;i&#x0;t&#x0;c&#x0;h&#x0;e&#x0;n&#x0;E&#x0;v&#x0;t&#x0;0&#x0;4&#x0;_&#x0;I&#x0;t&#x0;e&#x0;m&#x0;_&#x0;0&#x0;2-><opt:sel O4_KitchenEvt04_Item_02>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;.&#x0;O&#x0;4&#x0;_&#x0;K&#x0;i&#x0;t&#x0;c&#x0;h&#x0;e&#x0;n&#x0;E&#x0;v&#x0;t&#x0;0&#x0;4&#x0;_&#x0;I&#x0;t&#x0;e&#x0;m&#x0;_&#x0;0&#x0;1-><opt:sel O4_KitchenEvt04_Item_01b>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;.&#x0;O&#x0;4&#x0;_&#x0;K&#x0;i&#x0;t&#x0;c&#x0;h&#x0;e&#x0;n&#x0;E&#x0;v&#x0;t&#x0;0&#x0;4&#x0;_&#x0;I&#x0;t&#x0;e&#x0;m&#x0;_&#x0;0&#x0;1-><opt:sel O4_KitchenEvt04_Item_01a>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;.&#x0;T&#x0;N&#x0;_&#x0;I&#x0;n&#x0;f&#x0;o&#x0;r&#x0;m&#x0;a&#x0;t&#x0;i&#x0;o&#x0;n&#x0;_&#x0;B&#x0;o&#x0;a&#x0;r&#x0;d&#x0;_&#x0;0&#x0;4-><opt:sel TN_Information_Board_04>
+&#xE;&#x3;&#x0;&gt;&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;4&#x0;O&#x0;4&#x0;_&#x0;H&#x0;a&#x0;l&#x0;l&#x0;E&#x0;v&#x0;t&#x0;0&#x0;2&#x0;_&#x0;P&#x0;e&#x0;d&#x0;d&#x0;l&#x0;e&#x0;r&#x0;K&#x0;N&#x0;P&#x0;_&#x0;0&#x0;2-><opt:sel O4_HallEvt02_PeddlerKNP_02>
+&#xE;&#x3;&#x0;4&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;*&#x0;B&#x0;4&#x0;_&#x0;I&#x0;n&#x0;f&#x0;o&#x0;r&#x0;m&#x0;a&#x0;n&#x0;t&#x0;_&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t&#x0;0&#x0;2-><opt:sel B4_Informant_Sel02>
+&#xE;&#x3;&#x0;&#x1E;&#x0;&#x0;&#x0;&#x4;&#x0;&#x0;&#x1;,&#x0;&#x14;&#x0;B&#x0;B&#x0;_&#x0;C&#x0;a&#x0;f&#x0;e&#x0;_&#x0;0&#x0;3-><opt:sel BB_Cafe_03>
+&#xE;&#x3;&#x0; &#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;&#x16;&#x0;C&#x0;a&#x0;f&#x0;e&#x0;_&#x0;M&#x0;e&#x0;n&#x0;u&#x0;0&#x0;1-><opt:sel Cafe_Menu01>
+&#xE;&#x3;&#x0;$&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;&#x1A;&#x0;Y&#x0;_&#x0;C&#x0;a&#x0;f&#x0;e&#x0;_&#x0;M&#x0;e&#x0;n&#x0;u&#x0;0&#x0;1-><opt:sel Y_Cafe_Menu01>
+&#xE;&#x3;&#x0;8&#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;.&#x0;R&#x0;e&#x0;s&#x0;c&#x0;u&#x0;e&#x0;_&#x0;P&#x0;i&#x0;n&#x0;k&#x0;w&#x0;i&#x0;t&#x0;h&#x0;G&#x0;r&#x0;e&#x0;e&#x0;n&#x0;_&#x0;0&#x0;1-><opt:sel Rescue_PinkwithGreen_01>
+&#xE;&#x3;&#x0;&lt;&#x0;&#x1;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;2&#x0;T&#x0;N&#x0;_&#x0;Y&#x0;e&#x0;l&#x0;l&#x0;o&#x0;w&#x0;A&#x0;r&#x0;e&#x0;a&#x0;_&#x0;P&#x0;a&#x0;i&#x0;n&#x0;k&#x0;y&#x0;0&#x0;1&#x0;_&#x0;1&#x0;4-><opt:sel TN_YellowArea_Painky01_14>
+&#xE;&#x3;&#x0;6&#x0;&#x0;&#x0;&#x4;&#x0;&#x0;&#x1;,&#x0;,&#x0;T&#x0;N&#x0;_&#x0;S&#x0;t&#x0;o&#x0;r&#x0;e&#x0;R&#x0;o&#x0;o&#x0;m&#x0;_&#x0;I&#x0;n&#x0;f&#x0;o&#x0;S&#x0;e&#x0;l&#x0;0&#x0;1-><opt:sel TN_StoreRoom_InfoSel01>
+&#xE;&#x3;&#x0;6&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;,&#x0;T&#x0;N&#x0;_&#x0;S&#x0;t&#x0;o&#x0;r&#x0;e&#x0;R&#x0;o&#x0;o&#x0;m&#x0;_&#x0;I&#x0;n&#x0;f&#x0;o&#x0;S&#x0;e&#x0;l&#x0;0&#x0;0-><opt:sel TN_StoreRoom_InfoSel00>
+&#xE;&#x3;&#x0;&gt;&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;4&#x0;T&#x0;N&#x0;_&#x0;S&#x0;t&#x0;o&#x0;r&#x0;e&#x0;R&#x0;o&#x0;o&#x0;m&#x0;_&#x0;C&#x0;o&#x0;n&#x0;t&#x0;i&#x0;n&#x0;u&#x0;e&#x0;S&#x0;e&#x0;l&#x0;0&#x0;0-><opt:sel TN_StoreRoom_ContinueSel00>
+&#xE;&#x3;&#x0;&lt;&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;2&#x0;T&#x0;N&#x0;_&#x0;B&#x0;l&#x0;u&#x0;e&#x0;A&#x0;r&#x0;e&#x0;a&#x0;_&#x0;I&#x0;n&#x0;f&#x0;o&#x0;K&#x0;i&#x0;n&#x0;o&#x0;p&#x0;i&#x0;o&#x0;8&#x0;1-><opt:sel TN_BlueArea_InfoKinopio81>
+&#xE;&#x3;&#x0;&lt;&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;2&#x0;T&#x0;N&#x0;_&#x0;B&#x0;l&#x0;u&#x0;e&#x0;A&#x0;r&#x0;e&#x0;a&#x0;_&#x0;I&#x0;n&#x0;f&#x0;o&#x0;K&#x0;i&#x0;n&#x0;o&#x0;p&#x0;i&#x0;o&#x0;0&#x0;3-><opt:sel TN_BlueArea_InfoKinopio03>
+&#xE;&#x3;&#x0;&lt;&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;2&#x0;T&#x0;N&#x0;_&#x0;K&#x0;i&#x0;r&#x0;i&#x0;t&#x0;o&#x0;r&#x0;i&#x0;H&#x0;i&#x0;n&#x0;t&#x0;_&#x0;K&#x0;i&#x0;n&#x0;o&#x0;p&#x0;i&#x0;o&#x0;2&#x0;4-><opt:sel TN_KiritoriHint_Kinopio24>
+&#xE;&#x3;&#x0;.&#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;$&#x0;V&#x0;2&#x0;_&#x0;S&#x0;a&#x0;i&#x0;l&#x0;i&#x0;n&#x0;g&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t&#x0;0&#x0;3-><opt:sel V2_SailingSel03>
+&#xE;&#x3;&#x0;.&#x0;&#x1;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;$&#x0;V&#x0;2&#x0;_&#x0;S&#x0;a&#x0;i&#x0;l&#x0;i&#x0;n&#x0;g&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t&#x0;0&#x0;2-><opt:sel V2_SailingSel02>
+&#xE;&#x3;&#x0;*&#x0;&#x0;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0; &#x0;V&#x0;2&#x0;_&#x0;S&#x0;a&#x0;i&#x0;l&#x0;i&#x0;n&#x0;g&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t-><opt:sel V2_SailingSel>
+&#xE;&#x3;&#x0;"&#x0;&#x0;&#x0;&#x5;&#x0;&#x0;&#x2;X&#x0;&#x18;&#x0;V&#x0;2&#x0;_&#x0;M&#x0;a&#x0;p&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t-><opt:sel V2_MapSel>
+&#xE;&#x3;&#x0;&amp;&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;&#x1C;&#x0;V&#x0;4&#x0;_&#x0;S&#x0;h&#x0;o&#x0;p&#x0;_&#x0;S&#x0;e&#x0;l&#x0;e&#x0;c&#x0;t-><opt:sel V4_Shop_Sel>
+&#xE;&#x3;&#x0; &#x0;&#x1;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;&#x16;&#x0;Y&#x0;4&#x0;_&#x0;E&#x0;l&#x0;e&#x0;v&#x0;a&#x0;t&#x0;o&#x0;r-><opt:sel Y4_Elevator4>
+&#xE;&#x3;&#x0; &#x0;&#x0;&#x0;&#x0;&#x0;&#x0;&#x1;,&#x0;&#x16;&#x0;Y&#x0;4&#x0;_&#x0;E&#x0;l&#x0;e&#x0;v&#x0;a&#x0;t&#x0;o&#x0;r-><opt:sel Y4_Elevator3>
+&#xE;&#x3;&#x0; &#x0;&#x3;&#x0;&#x3;&#x0;&#x0;&#x1;,&#x0;&#x16;&#x0;Y&#x0;4&#x0;_&#x0;E&#x0;l&#x0;e&#x0;v&#x0;a&#x0;t&#x0;o&#x0;r-><opt:sel Y4_Elevator2>
+&#xE;&#x3;&#x0; &#x0;&#x2;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;&#x16;&#x0;Y&#x0;4&#x0;_&#x0;E&#x0;l&#x0;e&#x0;v&#x0;a&#x0;t&#x0;o&#x0;r-><opt:sel Y4_Elevator1>
+&#xE;&#x3;&#x0;(&#x0;&#x0;ÿÿ&#x0;&#x0;&#x1;,&#x0;&#x1E;&#x0;Y&#x0;B&#x0;_&#x0;H&#x0;o&#x0;n&#x0;e&#x0;_&#x0;Y&#x0;s&#x0;e&#x0;N&#x0;o&#x0;0&#x0;2-><opt:sel YB_Hone_YseNo02>
+&#xE;&#x3;&#x0;(&#x0;&#x0;ÿÿ&#x0;&#x0;&#x1;,&#x0;&#x1E;&#x0;Y&#x0;B&#x0;_&#x0;H&#x0;o&#x0;n&#x0;e&#x0;_&#x0;Y&#x0;s&#x0;e&#x0;N&#x0;o&#x0;0&#x0;1-><opt:sel YB_Hone_YseNo01>
+&#xE;&#x3;&#x0;&#x14;&#x0;&#x1;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;\n&#x0;y&#x0;e&#x0;s&#x0;n&#x0;o-><opt:sel yesno2>
+&#xE;&#x3;&#x0;&#x14;&#x0;&#x0;&#x0;&#x1;&#x0;&#x0;&#x1;,&#x0;\n&#x0;y&#x0;e&#x0;s&#x0;n&#x0;o-><opt:sel yesno1>
+&#xE;&#x3;&#x0;&#x14;&#x0;&#x0;&#x0;&#x2;&#x0;&#x0;&#x1;,&#x0;\n&#x0;Y&#x0;E&#x0;S&#x0;N&#x0;O-><opt:sel YESNO>
+
+&#xE;&#x7;&#x8;&#x0;-><win:shout_kpa>
+&#xE;&#x7;&#x7;&#x0;-><win:talk_kpa>
+&#xE;&#x7;&#x6;&#x0;-><win:shout_normal>
+&#xE;&#x7;&#x4;&#x0;-><win:ghost>
+&#xE;&#x7;&#x3;&#x0;-><win:talk>
+&#xE;&#x7;&#x2;&#x0;-><win:shout>
+
+&#xE;&#x4;&#x4;&#x2;&#xB;¸-><wait 3000>
+&#xE;&#x4;&#x4;&#x2;&#x7;Ð-><wait 2000>
+&#xE;&#x4;&#x4;&#x2;&#x4;°-><wait 1200>
+&#xE;&#x4;&#x4;&#x2;&#x3;è-><wait 1000>
+&#xE;&#x4;&#x4;&#x2;&#x3;-><wait 900>
+&#xE;&#x4;&#x4;&#x2;&#x3; -><wait 800>
+&#xE;&#x4;&#x4;&#x2;&#x2;¼-><wait 700>
+&#xE;&#x4;&#x4;&#x2;&#x2;X-><wait 600>
+&#xE;&#x4;&#x4;&#x2;&#x1;ô-><wait 500>
+&#xE;&#x4;&#x4;&#x2;&#x1;-><wait 400>
+&#xE;&#x4;&#x4;&#x2;&#x1;,-><wait 300>
+&#xE;&#x4;&#x4;&#x2;&#x0;È-><wait 200>
+&#xE;&#x4;&#x4;&#x2;&#x0;d-><wait 100>
+&#xE;&#x4;&#x4;&#x2;&#x0;&lt;-><wait 60>
+&#xE;&#x4;&#x4;&#x2;&#x0;&#x5;-><wait 5>
+&#xE;&#x4;&#x4;&#x2;&#x0;&#x4;-><wait 4>
+&#xE;&#x4;&#x3;&#x2;&#x0;&#x0;-><speed 0>
+&#xF;&#x4;&#x3;-></speed>
+&#xE;&#x4;&#x2;&#x0;-><once_stop>
+
+&#xE;&#x3;&#x7;&#x4;&#x0;&#x0;&#xF; -><opt:DJB_CLOSE delay=4000>
+&#xE;&#x3;&#x6;&#x2;&#xF;Í-><opt:DJB id="FLD007">
+&#xE;&#x3;&#x6;&#x2;&#xE;Í-><opt:DJB id="FLD006">
+&#xE;&#x3;&#x6;&#x2;&#x3;Í-><opt:DJB id="BTL_AC">
+&#xE;&#x3;&#x6;&#x2;&#x2;Í-><opt:DJB id="FLD_MAP">
+&#xE;&#x3;&#x6;&#x2;&#x1;Í-><opt:DJB id="SAVE">
+&#xE;&#x3;&#x5;&#x0;-><opt:price>
+&#xE;&#x3;&#x2;\n&#x0;&#x0;&#x0;&#x6;&#x0;%&#x0;l&#x0;s-><opt:num0 %ls>
+&#xE;&#x3;&#x2;&#x8;&#x0;	&#x0;&#x4;&#x0;%&#x0;d-><opt:num9 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x8;&#x0;&#x4;&#x0;%&#x0;d-><opt:num8 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x7;&#x0;&#x4;&#x0;%&#x0;d-><opt:num7 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x6;&#x0;&#x4;&#x0;%&#x0;d-><opt:num6 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x5;&#x0;&#x4;&#x0;%&#x0;d-><opt:num5 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x4;&#x0;&#x4;&#x0;%&#x0;d-><opt:num4 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x3;&#x0;&#x4;&#x0;%&#x0;d-><opt:num3 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x2;&#x0;&#x4;&#x0;%&#x0;d-><opt:num2 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x1;&#x0;&#x4;&#x0;%&#x0;d-><opt:num1 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x1;&#x0;&#x4;&#x0;%&#x0;D-><opt:num1 %D>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x0;&#x0;&#x4;&#x0;%&#x0;d-><opt:num0 %d>
+&#xE;&#x3;&#x2;&#x8;&#x0;&#x0;&#x0;&#x4;&#x0;%&#x0;D-><opt:num0 %D>
+&#xE;&#x3;&#x1;\n&#x0;&#x8;&#x0;i&#x0;t&#x0;e&#x0;m-><opt:ItemName ID="item">
+
+&#xE;&#x2;&#x7;&#x2;&#x0;Í-><lay:align left>
+&#xF;&#x2;&#x7;-></lay:align>
+&#xE;&#x2;&#x6;&#x4;&#x0;&#x0;&#x0;&#x14;-><lay:vtab dots=20>
+&#xE;&#x2;&#x6;&#x4;&#x0;&#x0;&#x0;&#xC;-><lay:vtab dots=12>
+&#xE;&#x2;&#x6;&#x4;&#x0;&#x0;&#x0;\n-><lay:vtab dots=10>
+&#xE;&#x2;&#x6;&#x4;&#x0;&#x0;&#x0;"-><lay:vtab dots=34>
+&#xE;&#x2;&#x1;&#x2;&#x0;&#x0;-><lay:center>
+&#xF;&#x2;&#x1;-></lay:center>
+
+&#xE;&#x1;&#x2;&#x2;&#x0;&#x0;-><ctl:signal val=0>
+&#xE;&#x1;&#x1;&#x0;-><ctl:end>
+
+&#xE;&#x0;&#x3;&#x4;&lt;&lt;&lt;ÿ-><fnt TalkFont>
+&#xE;&#x0;&#x3;&#x4;ÿ[\nÿ-><fnt Orange>
+&#xE;&#x0;&#x3;&#x4;ôôôÿ-><fnt White>
+&#xE;&#x0;&#x2;&#x2;&#x0;È-><size 200>
+&#xE;&#x0;&#x2;&#x2;&#x0;ª-><size 170>
+&#xE;&#x0;&#x2;&#x2;&#x0; -><size 160>
+&#xE;&#x0;&#x2;&#x2;&#x0;-><size 150>
+&#xE;&#x0;&#x2;&#x2;&#x0;-><size 140>
+&#xE;&#x0;&#x2;&#x2;&#x0;}-><size 125>
+&#xE;&#x0;&#x2;&#x2;&#x0;x-><size 120>
+&#xE;&#x0;&#x2;&#x2;&#x0;s-><size 115>
+&#xE;&#x0;&#x2;&#x2;&#x0;d-><size 100>
+&#xE;&#x0;&#x2;&#x2;&#x0;c-><size 99>
+&#xE;&#x0;&#x2;&#x2;&#x0;Z-><size 90>
+&#xE;&#x0;&#x2;&#x2;&#x0;K-><size 75>
+&#xE;&#x0;&#x2;&#x2;&#x0;F-><size 70>
+
+-><btn L>
+-><btn TOUCH>
+-><btn START>
+-><btn DPAD_UP>
+-><btn A>
+-><btn B>
+-><btn X>
+-><btn Y>

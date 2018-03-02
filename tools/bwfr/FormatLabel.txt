@@ -1,0 +1,7 @@
+﻿
+<?xml version="1.0" encoding="utf-8"?>\r\n<kup encoding="utf-16" ramOffset="00" optimizeStrings="true">\r\n	<pointerTables />\r\n	<stringBounds />\r\n	<entries>\r\n-><Header>\n
+offset="00" relocatable="true" max_length="0">\r\n			<original>->/>\n========================================\n
+</edited>\r\n			<subEntries />\r\n		</entry>\r\n->\n========================================\n<entryEnd>\n\n\n
+</original>\r\n			<edited>->\n========================================\n
+</entries>\r\n</kup>-><Footer>
+&#xE;&#x0;&#x4;&#x0;->\n----------------------------------------\n

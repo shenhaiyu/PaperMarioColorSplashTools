@@ -1,0 +1,4 @@
+Batch replace original subspliter from "-" to "~" in the translated *.txt file,
+then input "~" in the "Sub Spliter Char" textbox to replace default "-",
+and uncheck "Keep Tabs", and check "Cver X CrLf mark X in translated blocks".
+Ok, now drag all *.txt file into the tool, you will get a "^" marked continuous four lines in *.chk.txt files.

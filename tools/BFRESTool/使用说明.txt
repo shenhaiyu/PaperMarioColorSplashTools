@@ -1,0 +1,13 @@
+运行环境：Python V3
+
+导出脚本：
+bfres_extract.py *.bfres outdir
+导出 *.bfres 中所有的 dds 文件到 outdir 中。
+
+导入脚本：
+bfres_import.py *.bfres ddsdir
+自动扫描与 bfres 文件同名目录下的所有 *.dds 名称的文件，将 *.dds 导入对应 bfres 文件。
+
+已知问题：ATI2N 格式的 DDS 导入 bfres 后，通道顺序会发生变化，需要单独修正。
+基于aboood40091 的 BFRES-Tool 项目：https://github.com/aboood40091/BFRES-Tool
+修改者：@noword
