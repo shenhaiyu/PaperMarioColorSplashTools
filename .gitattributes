@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.c linguist-language=C
+*.py linguist-language=Python
+*.cs linguist-language=C#
